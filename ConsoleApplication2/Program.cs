@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("hi everyone!!!");
+            Console.WriteLine("this is a change only for the master branch");
         }
     }
 }
